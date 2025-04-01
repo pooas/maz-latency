@@ -1,9 +1,9 @@
 # maz-latency
 
-nstall via Package Manager
-Ubuntu/Debian:
+# install via Package Manager
+# Ubuntu/Debian:
 bash
 
-sudo apt-get update
-sudo apt-get install nlohmann-json3-dev
+   sudo apt-get update
+   sudo apt-get install nlohmann-json3-dev
 
